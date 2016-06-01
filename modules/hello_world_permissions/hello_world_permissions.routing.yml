@@ -1,0 +1,7 @@
+hello_world.content:
+  path: '/hello-world-permissions'
+  defaults:
+    _controller: '\Drupal\hello_world_permissions\Controller\HelloWorldPermissionsController::content'
+    _title: 'Hello Permissions'
+  requirements:
+    _permission: 'access hello world page'

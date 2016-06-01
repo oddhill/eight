@@ -1,0 +1,3 @@
+services:
+  my_block.places:
+    class: Drupal\my_block\Services\PlacesServices

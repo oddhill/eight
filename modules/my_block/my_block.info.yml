@@ -1,0 +1,5 @@
+name: My block
+description: 'A module that demonstrates blocks in Drupal.'
+type: module
+package: 'Custom'
+core: 8.x
