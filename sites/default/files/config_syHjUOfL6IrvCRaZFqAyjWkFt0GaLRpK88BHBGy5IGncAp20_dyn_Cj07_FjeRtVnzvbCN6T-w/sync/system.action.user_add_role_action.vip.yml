@@ -1,0 +1,14 @@
+uuid: 08836d74-fe52-4396-aed5-a21b88b4e40d
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.vip
+  module:
+    - user
+id: user_add_role_action.vip
+label: 'Add the VIP role to the selected users'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: vip

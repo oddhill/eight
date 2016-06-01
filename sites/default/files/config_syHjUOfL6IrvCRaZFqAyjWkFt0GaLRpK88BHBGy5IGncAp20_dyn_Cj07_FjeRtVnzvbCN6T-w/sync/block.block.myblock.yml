@@ -1,0 +1,20 @@
+uuid: 27f6ae02-f507-456b-8300-be697b106423
+langcode: en
+status: true
+dependencies:
+  module:
+    - my_block
+  theme:
+    - bartik
+id: myblock
+theme: bartik
+region: sidebar_second
+weight: -8
+provider: null
+plugin: my_block
+settings:
+  id: my_block
+  label: 'Points of interests'
+  provider: my_block
+  label_display: '0'
+visibility: {  }

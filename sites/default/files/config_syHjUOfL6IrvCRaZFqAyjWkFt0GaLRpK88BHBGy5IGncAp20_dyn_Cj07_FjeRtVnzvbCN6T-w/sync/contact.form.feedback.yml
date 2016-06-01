@@ -1,0 +1,12 @@
+uuid: 41782cef-96c6-4b13-9730-a64de16804a6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - erik.johansson@oddhill.se
+reply: ''
+weight: 0

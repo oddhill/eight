@@ -1,0 +1,14 @@
+uuid: 5217e3cc-f84f-4f84-962e-ba229ff79f96
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.vip
+  module:
+    - user
+id: user_remove_role_action.vip
+label: 'Remove the VIP role from the selected users'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: vip

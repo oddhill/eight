@@ -1,0 +1,10 @@
+uuid: dfc81605-1fd1-4f38-b1de-57ea06112e2c
+langcode: en
+status: true
+dependencies: {  }
+id: vip
+label: VIP
+weight: -8
+is_admin: null
+permissions:
+  - 'administer menu'
